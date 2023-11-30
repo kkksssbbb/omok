@@ -8,8 +8,9 @@
 ##### 흑과 백이 번갈아가며 돌을 착수한다.
 ##### 가로, 세로, 대각선으로 같은색 돌이 5개가 놓이면 승리한다.
 ##### 지우기 아이템 이미지에 돌을 착수하면 그 턴에 상대방의 돌을 ~~제거~~ 가능
-##### 2번 놓기 아이템 이미지에 돌을 착수하면 그 턴에 __한번 더__ 착수 가능
+##### 2번 놓기 아이템 이미지에 돌을 착수하면 그 턴에 **한번 더** 착수 가능
 
 ### *게임 실행 방법*
-#### Mac인 경우: 터미널에 omok_assignment 폴더 안에서 실행시킨 후 python3 main_mac.py 입력
-#### window인 경우: 터미널에 omok_assignment 폴더 안에서 실행시킨 후 python3 main.py 입력
+##### Mac인 경우: 터미널에 omok_assignment 폴더 안에서 실행시킨 후 python3 main_mac.py 입력
+##### window인 경우: 터미널에 omok_assignment 폴더 안에서 실행시킨 후 python3 main.py 입력
+<img scr = 'C:\Users\sbkim\OneDrive\바탕 화면\오목\erase_item.png width = "50%" height = "50%" >
