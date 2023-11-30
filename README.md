@@ -13,4 +13,4 @@
 ### *게임 실행 방법*
 ##### Mac인 경우: 터미널에 omok_assignment 폴더 안에서 실행시킨 후 python3 main_mac.py 입력
 ##### window인 경우: 터미널에 omok_assignment 폴더 안에서 실행시킨 후 python3 main.py 입력
-<img scr = 'C:\Users\sbkim\OneDrive\바탕 화면\오목\erase_item.png width = "50%" height = "50%" >
+![image](https://github.com/kkksssbbb/omok/assets/152246196/fe9169bc-afcb-43a0-8b07-9004146a1dec)
